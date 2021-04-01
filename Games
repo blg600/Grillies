@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Grillies</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <div class="header">
+      <a href="home" class="logo" style="font-family:verdana;">Grillies</a>
+      <div class="header-right">
+        <a href="home" style="font-family:verdana;">Home</a>
+        <a href="discord" style="font-family:verdana;">Communications</a>
+        <a href="Games" style="font-family:verdana;">Games</a>
+        <a href="staff" style="font-family:verdana;">Staff</a>
+        </div>
+    </div>
+    <div>
+      </center>
+      <center>
+        <h1 style="font-family:verdana">Grillies Roblox Links!</h1>
+      </center>
+      <center>
+        <h3 style="font-family:verdana">This is the Grillies Roblox Group!</h3>
+      </center>
+      <center>
+        <a href="https://www.roblox.com/groups/8109494/Grillies#!/about">
+          <button class="buttons">Grillies Group</button>
+        </a>
+      </center>
+      <center>
+        <h3 style="font-family:verdana">This is the main resturaunt where you can eat food or do your Job!</h3>
+      </center>
+      <center>
+        <a href="https://www.roblox.com/games/5861145347/Grillies-Diner?refPageId=6bc24e19-abc6-4126-b6cc-4b11ed29e7ec">
+          <button class="buttons">The Resturaunt</button>
+        </a>
+      </center>
+      <center>
+        <h3 style="font-family:verdana">This is where you can train to get a promotion!</h3>
+      </center>
+      <center>
+        <a href="https://www.roblox.com/games/5972859895/Grillies-Training-Center?refPageId=6bc24e19-abc6-4126-b6cc-4b11ed29e7ec">
+          <button class="buttons">Training Center</button>
+        </a>
+      <center>
+        <h3 style="font-family:verdana">This is where you can apply for a job here at Grillies!</h3>
+      </center>
+      <center>
+        <a href="https://www.roblox.com/games/6078951191/Apply-For-A-Job-at-Grillies">
+          <button class="buttons">Apply For Job</button>
+        </a>
+      </center>
+    </div>
+  </body>
+</html>
